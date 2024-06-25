@@ -1,3 +1,29 @@
+## Reasoning, steps, observations and conclusions
+
+Reasoning:
+    So this is a test towards chatGPT generated code. I am curious about the state
+    of the chatGPT-generated code and how it my affect everyday work.
+
+I followed this steps:
+    1. configured environment with next, tailwind and shadcn documentations.
+    2. I generated all the code per component
+    3. I played around changing how the style feels doing ping-pong with chatGPT
+    4. I added validation, way to present state of the page component.
+
+Observations:
+    1. creating code with chatGPT feels more design centric than code centric
+    2. chatGPT makes developing faster, but still requires architectural knowledge
+    3. chatGPT lies about configuration steps (it messes up URLs, libraries names)
+
+Conclusions:
+    ChatGPT speeds up the development time significantly, but still requires 
+    architectural knowledge. Also the creator's input into understanding how 
+    the application should feel and work is still needed. 
+
+## Further steps
+
+This application still needs refactor. I am thinking about types management mostly. 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
